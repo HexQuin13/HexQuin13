@@ -49,5 +49,5 @@
   <li><strong><a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</strong></a> - Display Cards</li>
   <li><strong><a href="https://icons8.com">Icons8</strong></a> - Profile Icons</li>
   <li><strong><a href="https://iconscout.com">Iconscount</strong></a> - Profile Icons</li>
-  <li><strong><a href="https://devdocs.io">Iconscount</strong></a> - Program Language Documentation</li>
+  <li><strong><a href="https://devdocs.io">Devdocs</strong></a> - Program Language Documentation</li>
 </ul>
