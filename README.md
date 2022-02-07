@@ -3,7 +3,7 @@
 
 ## Connections 📱
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ashton-sartain-53774922b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/HexQuin13" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <!--   <a href="https://www.youtube.com/channel/UCyKgKeEiQb-nJG0LcyaRdSg" target="_blank"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/48/000000/external-youtube-multimedia-prettycons-flat-prettycons.png"/></a> -->
   <a href=mailto:hexquin13@gmail.com target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
@@ -28,6 +28,14 @@
   <a href="https://devdocs.io/react" target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
   <a href="https://devdocs.io/node" targer="_blank"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>
 </p>
+
+## About Me 📖
+<ul dir="auto">
+  <li>I am a British 17 year old that is in college.</li>
+  <li>I have a passion for programming.</li>
+  <li>I am currently learning social media and web design.</li>
+  <li>My favorite programming languages are javascript and luau.</li>
+</ul>
 
 ## Statistics 📈
 
