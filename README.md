@@ -42,3 +42,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexquin13&show_icons=true&theme=dark)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hexquin13&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexquin13&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Credits
+<ul dir="auto">
+  <li><strong><a href="https://github.com/RobloxianDemo">RobloxianDemo</strong></a> - Profile Inspiration</li>
+  <li><strong><a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</strong></a> - Stat Displaying</li>
+  <li><strong><a href="https://icons8.com">Icons8</strong></a> - Profile Icons</li>
+  <li><strong><a href="https://iconscout.com">Iconscount</strong></a> - Profile Icons</li>
+  <li><strong><a href="https://devdocs.io">Iconscount</strong></a> - Program Language Documentation</li>
+</ul>
