@@ -31,7 +31,6 @@
 
 ## About Me 📖
 <ul dir="auto">
-  <li>I am a British 17 year old that is in college.</li>
   <li>I have a passion for programming.</li>
   <li>I am currently learning social media and web design.</li>
   <li>My favorite programming languages are javascript and luau.</li>
