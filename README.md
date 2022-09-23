@@ -10,6 +10,5 @@
 [<img align="left" alt="Typescript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="NodeJs" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right: 10px;" />]
-[<img align="left" alt="Lua" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="Postgresql" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 10px;" />]
