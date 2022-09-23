@@ -2,7 +2,12 @@
 
 ## I Am a Full Time College Student and Developer!
 
-- :zap: 
+I have been learning game and website design for the past few years and hope to pursue a career in either. Each of my projects are build from the ground up and I aim to improve my current knowledge.
+
+- 🤖 I am interested in AI
+- 🌐 I enjoy creating web applications 
+- ⚡ Currently learning C# & GraphQL
+- 🥅 2022 Goal: Create an AI
 
 ### Connections:
 <a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="30px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
@@ -26,6 +31,6 @@
 
 <br />
 
-### 📈 Stats
+### 📈 Statistics
 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
