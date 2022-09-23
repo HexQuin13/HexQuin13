@@ -5,7 +5,7 @@
 -
 
 ### Connections:
-[<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-left: 10px;" />]
+<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
 
 ### Languages and Tools:
 
