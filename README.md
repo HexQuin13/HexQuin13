@@ -4,6 +4,8 @@
 
 I have been learning game and website design for the past few years and hope to pursue a career in either. Each of my projects are build from the ground up and I aim to improve my current knowledge.
 
+#
+
 - 🤖 I am interested in AI
 - 🌐 I enjoy creating web applications 
 - ⚡ Currently learning C# & GraphQL
