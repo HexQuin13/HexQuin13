@@ -5,15 +5,15 @@
 - :zap: 
 
 ### Connections:
-<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="28px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
-<a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img align="left" width="28px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right: 10px;"/></a>
-<a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" width="28px" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
+<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="30px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
+<a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img align="left" width="30px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right: 10px;"/></a>
+<a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" width="30px" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />("https://www.youtube.com")
+<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="HTML" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="CSS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="SASS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right: 10px;" />
