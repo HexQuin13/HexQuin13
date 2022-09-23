@@ -2,7 +2,7 @@
 
 ## I Am a Full Time College Student and Developer!
 
--
+- :zap:
 
 ### Connections:
 <a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="28px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
