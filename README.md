@@ -5,11 +5,12 @@
 -
 
 ### Connections:
-<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
-<a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right: 10px;"/></a>
-<a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
+<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="28px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
+<a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img align="left" width="28px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right: 10px;"/></a>
+<a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" width="28px" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
 
-#
+<br>
+<br>
 
 ### Languages and Tools:
 
@@ -24,6 +25,7 @@
 <img align="left" alt="Postgresql" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 10px;" />
 
-#
+<br>
+<br>
 
 ### 📊 Stats
