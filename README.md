@@ -7,6 +7,8 @@
 ### Connections:
 <a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
 
+<br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />
