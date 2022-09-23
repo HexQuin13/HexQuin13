@@ -5,7 +5,7 @@
 -
 
 ### Connections:
-<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-left: 10px;" />
+[<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-left: 10px;" />]
 
 ### Languages and Tools:
 
