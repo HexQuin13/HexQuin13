@@ -1,6 +1,6 @@
 # Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-## I Am a Full Time College Student and Developer!
+### I Am a Full Time College Student and Developer!
 
 I have been learning game and website design for the past few years and hope to pursue a career in either. Each of my projects are build from the ground up and I aim to improve my current knowledge.
 
