@@ -1,6 +1,6 @@
 # Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-## I am a full time college student and developer!
+## I am a Full time College Student and Developer!
 
 -
 
