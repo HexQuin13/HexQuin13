@@ -10,7 +10,6 @@
 <a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" width="28px" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
 
 <br>
-<br>
 
 ### Languages and Tools:
 
