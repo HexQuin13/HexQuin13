@@ -26,6 +26,6 @@
 
 <br>
 
-### 📊 Stats
+### 📈 Stats
 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
