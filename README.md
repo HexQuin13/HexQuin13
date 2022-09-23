@@ -13,6 +13,3 @@
 [<img align="left" alt="Lua" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="Postgresql" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 10px;" />]
-
-
-[javascript]: "https://javascript.info"
