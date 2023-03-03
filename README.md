@@ -39,4 +39,4 @@ I have been learning game and website design for the past few years and hope to 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
  -->
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
