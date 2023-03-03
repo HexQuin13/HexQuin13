@@ -7,18 +7,18 @@ I have been learning game and website design for the past few years and hope to 
 #
 
 - 🤖 I am interested in AI
-- 🌐 I enjoy creating web applications 
+- 🖥️ I enjoy creating web applications 
 - ⚡ Currently learning C# & GraphQL
 - 🥅 2022 Goal: Create an AI
 
-### Connections:
+## 🌐 Connections:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashton-sartain-53774922b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HexQuin13)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hexquin13@gmail.com)
 
 <br />
 
-### Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="HTML" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
@@ -34,12 +34,6 @@ I have been learning game and website design for the past few years and hope to 
 
 <br />
 
-### 📈 Statistics
+## 📈 Statistics
 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashton-sartain-53774922b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HexQuin13)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hexquin13@gmail.com)
