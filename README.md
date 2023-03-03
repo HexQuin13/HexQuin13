@@ -1,4 +1,4 @@
-<!-- # Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ### I Am a Full Time College Student and Developer!
 
@@ -12,9 +12,9 @@ I have been learning game and website design for the past few years and hope to 
 - 🥅 2022 Goal: Create an AI
 
 ### Connections:
-<a href="https://twitter.com/HexQuin13" target="_blank"><img align="left" width="30px" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="padding-right: 10px;"/></a>
-<a href="https://www.linkedin.com/in/ashton-sartain-53774922b/" target="_blank"><img align="left" width="30px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right: 10px;"/></a>
-<a href=mailto:hexquin13@gmail.com target="_blank"><img align="left" width="30px" alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="padding-right: 10px;"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashton-sartain-53774922b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HexQuin13)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hexquin13@gmail.com)
 
 <br />
 
@@ -37,7 +37,7 @@ I have been learning game and website design for the past few years and hope to 
 ### 📈 Statistics
 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
- -->
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashton-sartain-53774922b/)
