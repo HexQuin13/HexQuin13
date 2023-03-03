@@ -1,4 +1,4 @@
-# Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<!-- # Hey there, I am HexQuin13 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ### I Am a Full Time College Student and Developer!
 
@@ -37,3 +37,6 @@ I have been learning game and website design for the past few years and hope to 
 ### 📈 Statistics
 
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=HexQuin13&show_icons=true&theme=dark)
+ -->
+ ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=disord&logoColor=white)HexQuin13#5837]
